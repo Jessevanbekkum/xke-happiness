@@ -1,0 +1,64 @@
+{
+    "sessions": [
+        {
+            "id": 1,
+            "name": "Advanced Cobol"
+        },
+        {
+            "id": 2,
+            "name": "Malbolge for beginners"
+        },
+        {
+            "id": 3,
+            "name": "Cryptography in rot13"
+        },
+        {
+            "id": 4,
+            "name": "Smarter Blockchain"
+        }
+    ],
+    "people": [
+        {
+            "name": "Jesse",
+            "sessions": [
+                1,4
+            ]
+        },
+        {
+            "name": "Laurens",
+            "sessions": [
+                2
+            ]
+        },
+        {
+            "name": "Merlijn",
+            "sessions": [
+                1,
+                2
+            ]
+        },
+        {
+            "name": "Urs",
+            "sessions": [
+                2,
+                3
+            ]
+        },
+        {
+            "name": "Serge",
+            "sessions": [
+                4
+            ]
+        }
+    ],
+    "rooms": [
+        {
+            "name": "Room 1",
+            "capacity": "2"
+        },
+        {
+            "name": "Room 2",
+            "capacity": "2"
+        }
+    ]
+}
